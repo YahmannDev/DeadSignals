@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Start_02_Kommunikationsversuch
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
   dialogueText: "Niemand antwortet. Wie immer. W\xE4hrend du auf die flimmernden
-    Monitore starrst atmest du laut aus und sp\xFCrst eine Leere in deinem Kopf.
+    Monitore starrst, atmest du laut aus und sp\xFCrst eine Leere in deinem Kopf.
     Der Staub tanzt im Licht der alten R\xF6hrenbildschirme."
   choices:
   - optionText: '"Was mache ich jetzt?"'
