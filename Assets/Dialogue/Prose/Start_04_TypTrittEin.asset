@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36c86ade21195114d91e5a0fb047663b, type: 3}
   m_Name: Start_04_TypTrittEin
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  dialogueText: "Die T\xFCr geht auf und dein Kollege tritt ein."
+  dialogueText: "Die T\xFCr geht auf und dein jemand tritt ein."
   choices:
-  - optionText: Du bist es, Wind.
+  - optionText: '"Du bist es, Wind."'
     nextNode: {fileID: 11400000, guid: a631951b8ae13704cb56e981ed0dfc90, type: 2}
-  - optionText: Hey.
+  - optionText: '"Hey."'
     nextNode: {fileID: 11400000, guid: a631951b8ae13704cb56e981ed0dfc90, type: 2}
-  - optionText: (ihn erwartungsvoll anschauen)
+  - optionText: (Ihn erwartungsvoll anschauen)
     nextNode: {fileID: 11400000, guid: a631951b8ae13704cb56e981ed0dfc90, type: 2}
