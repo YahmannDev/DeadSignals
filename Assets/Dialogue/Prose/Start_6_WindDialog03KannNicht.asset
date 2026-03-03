@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c86ade21195114d91e5a0fb047663b, type: 3}
+  m_Name: Start_6_WindDialog03KannNicht
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  dialogueText: "Du sagst das jedes mal.. Aber das Leben geht weiter, auch ohne den
+    verdammten Turm. Auch wenn du die n\xE4chsten 10 Jahre damit verbringst, jemanden
+    mit dem Funkger\xE4t zu erreichen, die Dinger sind hin\xFCber, niemand wird antworten."
+  choices: []

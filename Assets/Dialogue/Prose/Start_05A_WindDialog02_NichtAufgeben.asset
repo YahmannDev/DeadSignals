@@ -16,6 +16,6 @@ MonoBehaviour:
     vergiss die Sache.
   choices:
   - optionText: "Du wei\xDFt, dass ich das nicht kann."
-    nextNode: {fileID: 11400000, guid: 4315e80806911414ba9eec929bcb54da, type: 2}
+    nextNode: {fileID: 11400000, guid: 2e198842e7db527419340cc31cf66e1c, type: 2}
   - optionText: "Warum l\xE4sst du mich nicht einfach in Ruhe?"
     nextNode: {fileID: 11400000, guid: 4315e80806911414ba9eec929bcb54da, type: 2}
