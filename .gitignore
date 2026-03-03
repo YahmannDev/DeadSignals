@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
+=======
+>>>>>>> 21b39bd (cleaned up project with gitignore stuff)
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -10,6 +13,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+<<<<<<< HEAD
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
@@ -45,10 +49,28 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
+=======
+MemoryCaptures/
+Recorded/
+ASSETSTORE_METADATA
+/Assets/Plugins/Editor/JetBrains*
+.vs/
+.gradle/
+ExportedObj/
+.directory
+*.swp
+*.lock
+*.DS_Store
+*.sln
+*.csproj
+*.unityproj
+*.suo
+>>>>>>> 21b39bd (cleaned up project with gitignore stuff)
 *.user
 *.userprefs
 *.pidb
 *.booproj
+<<<<<<< HEAD
 *.svd
 *.pdb
 *.mdb
@@ -97,3 +119,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+=======
+*.svclog
+*.cache
+>>>>>>> 21b39bd (cleaned up project with gitignore stuff)

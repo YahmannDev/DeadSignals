@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c86ade21195114d91e5a0fb047663b, type: 3}
+  m_Name: Start_01_Funkraum
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
+  dialogueText: "Das Funkger\xE4t gibt ein statisches Summen von sich. Durch den
+    H\xF6rer h\xF6rst du nur ein Rauschen."
+  choices:
+  - optionText: '"Hallo?"'
+    nextNode: {fileID: 11400000, guid: 1d7ed911192213a4893fd6b4b44b1e1d, type: 2}
+  - optionText: "\"H\xF6rt mich jemand?\""
+    nextNode: {fileID: 11400000, guid: 1d7ed911192213a4893fd6b4b44b1e1d, type: 2}
